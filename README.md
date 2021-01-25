@@ -2,10 +2,12 @@
 
 Submit a single Python file that implements the following problems. You submitted file should include code to test your implementation.
 
-Problem 2, page 126 in the text (20 points).
-Problem 5, page 126 in the text (20 points).
-Problem 7, page 127 in the text (20 points).
-Problem 8, page 127 in the text (20 points).
+<ul>
+  <li>Problem 2, page 126 in the text (20 points).
+  <li>Problem 5, page 126 in the text (20 points).
+  <li>Problem 7, page 127 in the text (20 points).
+  <li>Problem 8, page 127 in the text (20 points).
+</ul>
 
 Grading rubric
 <ul>
